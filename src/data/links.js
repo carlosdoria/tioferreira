@@ -19,7 +19,7 @@ export const UNITS = [
 
 export const LINKS = {
   instagram: 'https://www.instagram.com/tioferreirasupermercados/',
-  trabalhe: 'tioferreiratrabalheconosco@gmail.com',
+  trabalhe: 'mailto:tioferreiratrabalheconosco@gmail.com',
   youtube: 'https://youtube.com/@tioferreira',
   tiktok: 'https://tiktok.com/@tioferreira',
   ofertas: 'https://www.instagram.com/tioferreirasupermercados/',
